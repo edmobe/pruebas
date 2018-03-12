@@ -1,1 +1,2 @@
-This git repository was created on my computer.
+This is my first official GitHub repository.
+I am learning the basics.
